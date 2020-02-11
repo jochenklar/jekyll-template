@@ -1,0 +1,10 @@
+# Site settings
+title: A title
+description: A description.
+url: "http://example.com"
+
+sass:
+  sass_dir: _sass
+
+permalink: pretty
+markdown: kramdown
